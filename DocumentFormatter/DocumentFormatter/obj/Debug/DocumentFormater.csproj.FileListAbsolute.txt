@@ -1,0 +1,7 @@
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\bin\Debug\DocumentFormater.exe.config
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\bin\Debug\DocumentFormater.exe
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\bin\Debug\DocumentFormater.pdb
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\obj\Debug\DocumentFormater.csproj.AssemblyReference.cache
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\obj\Debug\DocumentFormater.csproj.CoreCompileInputs.cache
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\obj\Debug\DocumentFormater.exe
+C:\Users\Aswathy Ananthu\source\repos\DocumentFormater\DocumentFormater\obj\Debug\DocumentFormater.pdb
